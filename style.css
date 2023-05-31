@@ -1,0 +1,13 @@
+.cha{
+    /* text-align:center; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.con{
+    border:solid red 5px;
+    margin:10px;
+    padding: 10px;
+    
+
+}
